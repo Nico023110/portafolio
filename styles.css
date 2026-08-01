@@ -1,5 +1,6 @@
 /* Reset y variables */
 :root {
+    color-scheme: dark;
     --bg-color: #0f172a; /* Slate 900 */
     --card-bg: rgba(30, 41, 59, 0.7); /* Slate 800 transparente */
     --text-primary: #f8fafc; /* Slate 50 */
